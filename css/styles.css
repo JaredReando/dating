@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#manHide {
+  display: none;
+  width: 200px;
+}
+
+#womanHide {
+  display: none;
+  width: 200px
+}
